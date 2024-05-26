@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Résumé"
+    url: /resume/
   - title: "Art Around"
     url: /artaround/
   - title: "Posts"
