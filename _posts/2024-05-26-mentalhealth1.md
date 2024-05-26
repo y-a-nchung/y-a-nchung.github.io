@@ -12,6 +12,8 @@ tags:
 
 In the coming series of blog posts, I will share some thoughts regarding a paper called [(Breaking) Intergenerational Transmission of Mental Health](https://www.nber.org/papers/w31446) by Aline Bütikofer, Rita Ginja, Krzysztof Karbownik, and Fanny Landaud. I finished this review as part of my MA Economics course, Economics of Education under the supervision of Prof. [Uros Petronijevic](https://sites.google.com/site/upetronijevic/home?authuser=0).
 
+I appreciate the opportunity to look closely at this paper as the topic is very close to my heart. The current research around intergenerational trauma is fascinating and growing fairly rapidly.
+
 # Introduction
 
 Due to the incident of COVID-19, there has been a growing awareness of mental health and its implications on human capital and economies. This growing interest on mental health was further consolidated by the sizable expenditures estimates and projections on mental health disorders in both the of the United States and Norway in 2013 and 2019 respectively (Kinge et al., 2017; Roehrig, 2016; Abuse and Administration, 2014).
