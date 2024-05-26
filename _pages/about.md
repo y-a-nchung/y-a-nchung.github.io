@@ -28,8 +28,9 @@ Europe • Africa • East Asia • North America
 ### Research Interests 
 Development economics • Econometrics • Public Health • Education • Entrepreneurship • Finance 
 
-### Contact Info
+### Let's Collaborate!
 [yan@y-a-n.com](mailto:yan@y-a-n.com)
+
 [www.y-a-n.com](www.y-a-n.com)
 
 Website last updated 29 May 2024
