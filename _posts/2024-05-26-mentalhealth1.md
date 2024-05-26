@@ -24,9 +24,9 @@ The paper, (Breaking) Intergenerational Transmission of Mental Health, uses info
 
 These are the 3 main focuses of the paper:
 
-Intergenerational Association of mental health between parents and their children.
-Intergenerational Association of mental health between extended family and children.
-Pilot Policy Impact – how targeting additional health resources toward the young children of adults with a mental health condition will mitigate the parent-child associations.
+1. Intergenerational Association of mental health between parents and their children.
+2. Intergenerational Association of mental health between extended family and children.
+3. Pilot Policy Impact – how targeting additional health resources toward the young children of adults with a mental health condition will mitigate the parent-child associations.
 
 The paper includes extended family in the analysis because, first, these individuals could model behaviours, provide resources and expertise, or increase awareness about psychological and psychiatric issues of children. Second, stressors such as neglect, violence, or substance abuse could likewise spill over through family networks.
 
