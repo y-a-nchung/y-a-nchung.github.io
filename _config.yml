@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yan Chung"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio.png"
   bio    : "An globel-trotted economist who yoga too much."
   links:
     - label: "y-a-n.com"
