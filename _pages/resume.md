@@ -3,5 +3,6 @@ permalink: /resume/
 title: "Résumé"
 ---
 
-Download CV [insert google link for CV]
-Linkedin https://www.linkedin.com/in/waiyanchung/
+Download [my Résumé]() [insert google link for CV]
+
+[Linkedin](https://www.linkedin.com/in/waiyanchung/)
