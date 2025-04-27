@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Résumé"
 ---
 
-Download [my Résumé](/assets/YanCV202405.pdf)
+Download [my Résumé](/assets/YanCV202504.pdf)
 
 [Linkedin](https://www.linkedin.com/in/waiyanchung/)
 
