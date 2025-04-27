@@ -1,5 +1,5 @@
 ---
-title: "Dashboard Design Essentials - StatsCan Labour Force Survey 01"<!--more-->"
+title: "Dashboard Design Essentials - StatsCan Labour Force Survey"<!--more-->"
 categories:
   - Blog
 tags:
