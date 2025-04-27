@@ -28,7 +28,7 @@ Developing a visually pleasing and effective dashboard is never an easy task. So
 
 7. **Explore different data visualization tools** - After some research and asking for advice from my friends working in data science, I was considering Tableau, Power BI, Excel, ggplot in R, plotly in Python.   
 
-8. **Mock up in Excel** - The dataset I was working with is relatively small so I figured it's faster for me to just download the csv file from (StatsCan website)[https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701], manipulate and plot rather complicated time series graphs in Excel. Therefore, instead of downloading 1GB data from StatsCan and using other tools, I decided to use Excel for me to explore and play around data. You will see the finished dashboard mock-up below. 
+8. **Mock up in Excel** - The dataset I was working with is relatively small so I figured it's faster for me to just download the csv file from [StatsCan website](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701), manipulate and plot rather complicated time series graphs in Excel. Therefore, instead of downloading 1GB data from StatsCan and using other tools, I decided to use Excel for me to explore and play around data. You will see the finished dashboard mock-up below. 
 
 9. **Automate the process** - Automating data scraping and updating the dashboard will be the next step. 
 
