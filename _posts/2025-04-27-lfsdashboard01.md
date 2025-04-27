@@ -1,5 +1,5 @@
 ---
-title: "Dashboard Design Essentials - StatsCan Labour Force Survey"<!--more-->"
+title: "Dashboard Design Essentials - StatsCan Labour Force Survey 01"<!--more-->"
 categories:
   - Blog
 tags:
@@ -31,6 +31,6 @@ Developing a visually pleasing and effective dashboard is never an easy task. So
 
 9. **Automate the process** - Automating data scraping and updating the dashboard will be the next step. 
 
-(Dashboard Excel Mock-up)[/assets/lfsdashboard.pdf]
+[Dashboard Excel Mock-up](/assets/lfsdashboard.pdf])
 
 So this captures my process when developing this dashboard. What do you think? How about your process?
