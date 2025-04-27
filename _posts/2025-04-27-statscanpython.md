@@ -19,7 +19,8 @@ Unfortunately, after almost a one-hour battle with the SSL certificate issue, it
 
 Instead, the following code to the rescue by just downloading the data in zip file and have panda to read it! As you see, however, there still could be SSL certificate problems if we don’t put in the extra line 1!!
 
-<pre> # 1) Turn off the “InsecureRequestWarning”
+<pre> 
+# 1) Turn off the “InsecureRequestWarning”
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 2) URL of the full-table ZIP
