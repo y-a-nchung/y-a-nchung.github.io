@@ -1,5 +1,5 @@
 ---
-title: "Some thoughts on (Breaking) Intergenerational Transmission of Mental Health [1]"
+title: "Some thoughts on (Breaking) Intergenerational Transmission of Mental Health"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
