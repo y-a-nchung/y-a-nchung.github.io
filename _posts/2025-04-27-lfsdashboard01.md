@@ -14,7 +14,7 @@ Developing a visually pleasing and effective dashboard is never an easy task. So
 
 # Steps to Develop an Effective Dashboard
 
-1. **Understand your audience!** - Understanding your major customers and questions your dashboards answer will provide an important road map on the design and content of the dashboards. Otherwise, all the metrics and info which can be included in dashboards could be pretty distracting at times. Having a map will ensure we will not get lost!
+1. **Understand your audience!** - Understanding our major customers and questions our dashboard needs to answer will provide an important road map for its design and content of the dashboards. Otherwise, all the available metrics and info can quickly become overwhelming and distracting at times. Having a map will ensure our dashboard stays relevant and rigorous!
 
 2. **Explore the dataset** - I like playing around with the dataset a little to feel more comfortable. For Labour Force Characteristics table, I spent some time to understand metrics and their definitions.
 
