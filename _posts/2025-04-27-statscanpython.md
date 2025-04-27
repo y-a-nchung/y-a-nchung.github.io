@@ -1,5 +1,5 @@
 ---
-title: "Scrape Data from StatsCan - April 2025"
+title: "Scrape Data from StatsCan with Python - April 2025"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
