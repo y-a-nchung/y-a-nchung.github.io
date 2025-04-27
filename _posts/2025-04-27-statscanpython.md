@@ -9,7 +9,7 @@ tags:
   - Programming
 ---
 
-Following up on my last post on building a Dashboard based on the famous 1410028701 table, [Labour Force Characteristics](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701) of Labour Force Survey from Statistics Canada, StatsCan.
+Following up on my [last post](https://y-a-n.com/blog/lfsdashboard01/) on building a Dashboard based on the famous 1410028701 table, [Labour Force Characteristics](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701) of Labour Force Survey from Statistics Canada, StatsCan.
 
 Now I am onto the journey of automating the data process by starting scraping data from the StatsCan website.
 
